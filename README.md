@@ -1,3 +1,7 @@
+# student-crm-backend-microservice
+This is a simple student-course-crm backend service. 
+Used technologies and concepts: Kotlin, Quarkus, Maven, Docker-Compose, DTO's, MVC-pattern, flyway, postgreSQL, solid&dry principles, keycloak security, testcontainer
+As it is an exercise to understand better realworld microservices, this project has been overengineered. 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
